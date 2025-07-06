@@ -101,7 +101,7 @@ pip install fastapi uvicorn langchain langchain-google-genai google-generativeai
 ## Notes
 
 * Ensure your API key is kept private.
-* Free tier quotas for Gemini API may apply. Check your [quota here](https://aistudio.google.com/app/quota).
+* Free tier quotas for Gemini API may apply.
 * The model name must match the models available in your API key access (use the provided list\_models.py script to check).
 * This app is for demo/prototype purposes.
 
